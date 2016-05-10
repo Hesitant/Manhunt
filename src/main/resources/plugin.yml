@@ -1,0 +1,8 @@
+name: Manhunt
+version: 1.0
+author: ItsMonkeyyy
+description: A remake of Kohi's 'manhunt' event from their Hardcore Factions server
+main: org.itsmonkey.manhunt.Manhunt
+commands:
+  manhunt:
+    aliases: [mh]
